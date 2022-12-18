@@ -1,9 +1,10 @@
-あつ
-a
-a
 
-a
-a
-a
+void AllDelete()
+{
+  //全て消去されました
+}
 
-a
+function test($a) {
+    print($a);
+}
+
