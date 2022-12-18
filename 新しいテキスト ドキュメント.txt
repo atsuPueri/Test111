@@ -4,5 +4,6 @@ eee
 function test($a) {
     print($a);
 }
+
 aaa
 eee
