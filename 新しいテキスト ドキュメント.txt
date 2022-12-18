@@ -1,4 +1,12 @@
+
 void AllDelete()
 {
   //全て消去されました
 }
+
+function test($a) {
+    print($a);
+}
+
+
+
