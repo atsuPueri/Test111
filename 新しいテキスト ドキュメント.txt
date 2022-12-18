@@ -1,12 +1,1 @@
-aaa
-aaa
-eee
-function test($a) {
-    print($a);
-}
-
-bbb
-ccc
-ddd
-eee
-うぇええええええええええええええええええええええええええええええええええええええええええええええええい
+あつ
