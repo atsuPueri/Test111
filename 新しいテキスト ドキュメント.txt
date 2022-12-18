@@ -1,5 +1,8 @@
 aaa
-bbb
-ccc
-ddd
+aaa
+eee
+function test($a) {
+    print($a);
+}
+aaa
 eee
