@@ -1,9 +1,4 @@
-aaa
-aaa
-eee
-function test($a) {
-    print($a);
+void AllDelete()
+{
+  //全て消去されました
 }
-
-aaa
-eee
